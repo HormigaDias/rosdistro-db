@@ -573,7 +573,7 @@ yaml-cpp:
   windows: [yaml-cpp]
 zlib:
   windows: [zlib]
-joblib:
+python-joblib:
     windows:
       pip:
-        packages: [python-joblib]
+        packages: [joblib]
