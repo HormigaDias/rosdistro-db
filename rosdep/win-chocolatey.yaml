@@ -577,3 +577,7 @@ python-joblib:
     windows:
       pip:
         packages: [joblib]
+python-cairosvg:
+    windows:
+      pip:
+        packages: [cairosvg]
