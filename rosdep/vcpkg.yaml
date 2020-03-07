@@ -24,3 +24,7 @@ suitesparse:
   windows:
     vcpkg:
       packages: [suitesparse]
+opencv_contrib:
+  windows:
+    vcpkg:
+      packages: [opencv-contrib]
